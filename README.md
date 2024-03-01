@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizturki07&label=Profile%20views&color=0e75b6&style=flat" alt="azizturki07" /> </p>
 
-- 🔭 I’m currently working on **food delivery app**
+- 🔭 I’m currently working on **website creation platform**
 
-- 🌱 I’m currently learning **Flutter,Dart**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **react**
 
