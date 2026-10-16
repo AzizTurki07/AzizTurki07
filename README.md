@@ -1,73 +1,59 @@
-<h1 align="center">Hi 👋, I'm Med Aziz Turki</h1>
-<h3 align="center">A passionate software engineering student from Tunisia</h3>
+<h1 align="center">Hi, I'm Aziz 👋</h1>
+<h3 align="center">Software engineer · Full-stack · Computer vision · DevOps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizturki07&label=Profile%20views&color=0e75b6&style=flat" alt="azizturki07" /> </p>
-
-- 🔭 I’m currently working on **website creation platform**
-
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **turkimohamedaziz@outlook.com**
-
-- ⚡ Fun fact **fast Learner**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/azizos07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="azizos07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/aziz-turki-7691001b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aziz-turki-7691001b5" height="30" width="40" /></a>
-<a href="https://fb.com/aziz torki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aziz torki" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AzizTurki07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 What I build
+
+- 🧱 **Full-stack apps** with a Spring Boot or FastAPI back-end and an Angular front-end
+- 👁️ **Computer vision and OCR**: document reading, face matching and liveness detection with OpenCV and Tesseract
+- 📱 **Mobile apps** from the same web code base with Capacitor
+- 🔐 **Secure APIs**: JWT auth, encryption at rest, audit logging
+- 🚢 **CI/CD pipelines**: GitHub Actions and Jenkins, shipped to Docker and Kubernetes
+
+### 🛠️ Tech stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,c,cpp" alt="Java, Python, TypeScript, JavaScript, PHP, C, C++" />
+</p>
+
+**Back-end**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nestjs,nodejs,express,symfony,laravel" alt="Spring Boot, FastAPI, NestJS, Node.js, Express, Symfony, Laravel" />
+</p>
+
+**Front-end**
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,jquery,figma" alt="Angular, React, HTML, CSS, jQuery, Figma" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" alt="PostgreSQL, MySQL, MongoDB, Firebase" />
+</p>
+
+**DevOps & cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,git,aws,linux" alt="Docker, Kubernetes, GitHub Actions, Jenkins, Git, AWS, Linux" />
+</p>
+
+**AI & vision:** OpenCV · Tesseract OCR · face recognition
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AzizTurki07&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizTurki07&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+
+### 📫 Connect
+
+<p>
+  <a href="https://linkedin.com/in/aziz-turki"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:turkimohamedaziz@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+</p>
